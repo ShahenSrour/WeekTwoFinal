@@ -1,0 +1,47 @@
+Navigation Bar -------------------------------------------------------------------------
+
+.width__limiter : done
+.container : done
+.nav__left : done
+.nav__right : done
+#Company__Logo : done
+#Company__Name : done
+.main__four__links : done
+.login_signup : done
+.link_normal_styles : done
+.Login : done
+.link_not_normal_styles : done
+
+Section one -----------------------------------------------------------------------------
+
+.Section_one : done
+.width__limiter : done
+.FortyPercent : done
+.SixtyPercent : done
+.First__Section_Image : done
+.Paragraph_First_Section : done
+.email_box : done
+.Email_input : done
+.Get_started : done
+.Our_trusted_customers : done
+.trusted_customer_text : done
+.trust_customer_img : done
+.light_purple : done
+
+Section two -----------------------------------------------------------------------------
+
+.width__limiter : done
+.Section_two : done
+.top_half : done
+.Feature_text : done
+.Section_two_title : done
+.Section_two_para : done
+.bottom_half : done
+.one_feature_block : done
+.left_feature_block : done
+.icon_feature_block : done
+.right_feature_block : done
+.Title_feature_block : done
+.Para_feature_block : done
+
+Section three -----------------------------------------------------------------------------

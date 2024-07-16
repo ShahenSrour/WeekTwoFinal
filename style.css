@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter", system-ui;
+}
+
+body {
+    padding: 32px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #1a202c;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+p {
+    color: #243e63;
+    font-size: 18px;
+}
+
+/*Navigation Bar*/
+.width__limiter {
+    max-width: 1280px;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin: 0 auto;
+}
+
+.nav__left,
+.nav__right {
+    display: flex;
+    align-items: center;
+    max-width: 50%;
+}
+
+
+#Company__Logo {
+    height: 44px;
+    margin: 0 10px 0 0;
+}
+
+#Company__Name {
+    margin: 0 24px 0 0;
+    font-size: 24px;
+    font-weight: 900;
+    color: #243e63;
+}
+
+.main__four__links,
+.login_signup {
+    display: flex;
+    align-items: center;
+}
+
+.link_normal_styles {
+    font-size: 14px;
+    margin: 0 24px;
+    color: #243e63;
+    font-weight: 600;
+}
+
+.Login {
+    margin: 0 24px 0 48px;
+}
+
+.link_not_normal_styles {
+    font-size: 14px;
+    color: #f7fafc;
+    padding: 12px 32px;
+    background-color: #6415ff;
+    border-radius: 999999999px;
+    font-weight: 600;
+}
+
+/*Navigation Bar Logic*/
+
+
+
+
+
+
+/*Section one*/
+.Section_one {
+    padding: 96px 0;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.FortyPercent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 41%;
+}
+
+.trust_customer_img {
+    width: 100%;
+    margin: 16px 0 0 0;
+    padding: 0 128px 0 0;
+    opacity: 0.5;
+}
+
+.Paragraph_First_Section {
+    line-height: 1.5;
+    margin: 32px 0px;
+
+}
+
+.SixtyPercent {
+    display: flex;
+    flex-direction: column;
+    max-width: 59%;
+}
+
+.Our_trusted_customers {
+    margin: 80px 0 0 0;
+}
+
+.First__Section_Image {
+    width: 100%;
+}
+
+.light_purple {
+    color: #6415ff;
+}
+
+.trusted_customer_text {
+    color: #a0aec0;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.email_box {
+    position: relative;
+}
+
+.Email_input {
+    border-color: rgb(226, 232, 240);
+    border-radius: 99999px;
+    border-style: solid;
+    padding: 20px 192px 20px 32px;
+    width: 80%;
+}
+
+.Email_input::placeholder {
+    font-size: 16px;
+    font-weight: 500;
+    color: #CBD5E0;
+}
+
+.Get_started {
+    content: "";
+    position: absolute;
+    bottom: 50%;
+    transform: translateY(50%);
+    right: 21.3%;
+    padding: 16px 28px;
+    border-radius: 9999px;
+    border-style: none;
+    color: white;
+    font-weight: 700;
+    background-color: #6415ff;
+}
+
+/*Section one Logic*/
+
+
+
+
+
+
+/*Section two*/
+
+.Section_two {
+    padding: 96px 0;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.top_half {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.Feature_text {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.025em;
+    color: #6415ff;
+    margin-bottom: 16px;
+}
+
+.Section_two_title {
+    letter-spacing: 0.025em;
+    font-size: 48px;
+    color: #243e63;
+    font-weight: 900;
+}
+
+.Section_two_para {
+    letter-spacing: 0.025em;
+    max-width: 576px;
+    margin-top: 16px;
+    font-size: 18px;
+    color: #7c8Ba1;
+    line-height: 1.625;
+    font-weight: 500;
+}
+
+.bottom_half {
+    flex-wrap: wrap;
+    margin-top: 48px;
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+    justify-content: center;
+}
+
+.one_feature_block {
+    max-width: 26%;
+    display: flex;
+    flex-direction: row;
+    margin: 16px;
+}
+
+.left_feature_block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    height: 60.8px;
+    border-radius: 50%;
+    border-color: #E2E8F0;
+}
+
+.icon_feature_block {
+    width: 24px;
+    height: 24px;
+    margin: 16px;
+}
+.right_feature_block{
+    width:310px;
+    margin: 0 16px;
+}
+.Title_feature_block{
+    font-size: 24px;
+    color: #243e63;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.Para_feature_block{
+    color: #7c8Ba1;
+    font-size: 16px;
+    line-height: 2;
+    font-weight: 500;
+}
+
+
+/*Section two Logic*/
+
+
+
+/*Section three*/
+/*Section three Logic*/
