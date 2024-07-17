@@ -45,3 +45,37 @@ Section two --------------------------------------------------------------------
 .Para_feature_block : done
 
 Section three -----------------------------------------------------------------------------
+
+.width__limiter : done
+.Section_three : done
+.FiftyPercent : done
+.Section_three_left : done
+.Section_three_learnMore_button : done
+
+Section four -----------------------------------------------------------------------------
+
+.width__limiter : done
+.Section_four : done
+.FiftyPercent : done
+.Section_Four_left : done
+.Section_Four_img : done
+.Section_four_feature : done
+.Section_Four_right : done
+.largeNum : done
+.Title_para_section_four : done
+.TITLE_SECTION_FOUR : done
+.Para_section_four : done
+
+Section five-----------------------------------------------------------------------------
+
+.width__limiter : done
+.Section_five : done
+.FiftyPercent_sect_five : done
+.Image_Section_five : done
+.Logo_Section_Five_dollar : done
+.Logo_Section_Five_suitcase : done
+.Title__Section_Five : done
+.Section_Five_Features : done
+.LOGO_AND_TITLE_SECTION_FIVE : done
+.Section_five_para : done
+.TITLE_Section_five : done
