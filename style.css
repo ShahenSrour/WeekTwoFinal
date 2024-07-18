@@ -417,9 +417,10 @@ p {
     justify-content: center;
     background-color: #FEB2B2;
     padding: 12px;
-    color:#9B2C2C;
+    color: #9B2C2C;
     border-radius: 50%;
 }
+
 .Logo_Section_Five_dollar {
     display: flex;
     align-items: center;
@@ -427,10 +428,75 @@ p {
     background-color: #9AE6B4;
     padding: 12px;
     width: 40px;
-    color:#276749;
+    color: #276749;
     border-radius: 50%;
 }
-.FiftyPercent_sect_five{
+
+.FiftyPercent_sect_five {
     margin-top: 32px;
 }
+
 /*Section five Logic*/
+/*Section six*/
+.Section_six {
+    padding: 96px 0;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top_section_six {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.bottom_section_six {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.cards_section_six {
+    width: 29%;
+    text-align: center;
+    margin: 64px 3.25%;
+
+}
+
+.card_2 {
+    background-image: linear-gradient(to right, #5059C6, #5968D5);
+    padding: 8px 32px 0px 32px;
+    border-radius: 5px;
+}
+.card_1{
+    border-top: 5px solid green;
+    padding: 8px 0px 0px 0px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px grey;
+}
+.card_3{
+    border-top: 5px solid red;
+    padding: 8px 0px 0px 0px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px grey;
+}
+.card13_top_section{
+    width: 100%;
+    border-bottom:2px solid #E2E8F0;
+    padding: 36px 0px;
+
+}
+.card_title{
+    font-size: 20px;
+    color: #1a202c;
+    font-weight: 700;
+}
+.card_price{
+    
+}
+/*Section six Logic*/

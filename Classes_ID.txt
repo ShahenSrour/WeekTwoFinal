@@ -66,7 +66,7 @@ Section four -------------------------------------------------------------------
 .TITLE_SECTION_FOUR : done
 .Para_section_four : done
 
-Section five-----------------------------------------------------------------------------
+Section five -----------------------------------------------------------------------------
 
 .width__limiter : done
 .Section_five : done
@@ -79,3 +79,26 @@ Section five--------------------------------------------------------------------
 .LOGO_AND_TITLE_SECTION_FIVE : done
 .Section_five_para : done
 .TITLE_Section_five : done
+
+Section six -----------------------------------------------------------------------------
+
+.width__limiter : done
+.Section_six : done
+.top_section_six : done
+.bottom_section_six : done
+.cards_section_six : done
+.card_1 : done
+.card_2 : done
+.card_3 : done
+.card13_top_section : 
+.card13_mid_section : 
+.card13_bottom_section : 
+.card3_top_section : 
+.card3_mid_section : 
+.card3_bottom_section : 
+.card_title : done
+.card_price : 
+.card_duration : 
+.card_for_who : 
+.card_features : 
+.card_btn : 
