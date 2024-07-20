@@ -106,8 +106,8 @@ Section six --------------------------------------------------------------------
 .card_duration2 : done
 .card_for_who2 : done
 .card_features2 : done
-.card_btn1 : 
-.card_btn2: 
-.card_btn3 : 
+.card_btn1 : done
+.card_btn2: done
+.card_btn3 : done
 .card1_top_grad : done
 .card3_top_grad : done
