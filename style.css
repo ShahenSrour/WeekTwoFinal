@@ -486,22 +486,24 @@ p {
     box-shadow: 0px 0px 2px grey;
 }
 
-.card13_top_section{
+.card13_top_section {
     width: 100%;
     border-bottom: 2px solid #E2E8F0;
     padding: 0px 0px 32px 0px;
 }
+
 .card13_mid_section {
     width: 100%;
     border-bottom: 2px solid #E2E8F0;
     padding: 36px 0px;
 }
 
-.card2_top_section{
+.card2_top_section {
     width: 100%;
     border-bottom: 2px solid #667EEA;
     padding: 42px 0px 32px 0px;
 }
+
 .card2_mid_section {
     width: 100%;
     border-bottom: 2px solid #667EEA;
@@ -584,7 +586,8 @@ p {
     line-height: 44px;
     font-weight: 500;
 }
-.card_btn1{
+
+.card_btn1 {
     font-size: 14px;
     color: #f7fafc;
     padding: 16px 32px;
@@ -597,7 +600,8 @@ p {
     border-radius: 9999px;
     background: linear-gradient(115deg, rgb(56, 178, 172) 0%, rgb(129, 230, 217) 100%);
 }
-.card1_top_grad{
+
+.card1_top_grad {
     background: linear-gradient(115deg, rgb(56, 178, 172) 0%, rgb(129, 230, 217) 100%);
     height: 10px;
     width: 100%;
@@ -605,7 +609,8 @@ p {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
-.card3_top_grad{
+
+.card3_top_grad {
     background: linear-gradient(115deg, rgb(245, 101, 101) 0%, rgb(254, 178, 178) 100%);
     height: 10px;
     width: 100%;
@@ -613,7 +618,8 @@ p {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
-.card_btn3{
+
+.card_btn3 {
     font-size: 14px;
     color: #f7fafc;
     padding: 16px 32px;
@@ -626,7 +632,8 @@ p {
     border-radius: 9999px;
     background: linear-gradient(115deg, rgb(245, 101, 101) 0%, rgb(254, 178, 178) 100%);
 }
-.card_btn2{
+
+.card_btn2 {
     font-size: 14px;
     color: #6415ff;
     padding: 16px 32px;
@@ -639,4 +646,100 @@ p {
     border-radius: 9999px;
     background: #f7fafc;
 }
+
 /*Section six Logic*/
+
+/*Section seven*/
+.Section_seven {
+    padding: 96px 0;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.Section_seven_image {
+    width: 100%;
+    padding: 0 20px;
+}
+
+.comment_card_section_seven {
+    margin-top: 20px;
+}
+
+.pfp_name_section_seven {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section_seven_amazing {
+    margin-top: 16px;
+    color: #243e63;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.section_seven_amazing_para {
+    margin-top: 16px;
+    margin-bottom: 40px;
+    color: #4a5568;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.625;
+}
+
+.pfp_section_seven {
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.Comment_name {
+    font-size: 20px;
+    color: #243e63;
+    font-weight: 700;
+}
+
+.Comment_company {
+    color: #7c8Ba1;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.section_seven_commentSection_divider {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+    margin-right: 10px;
+}
+
+.pfp_info {
+    display: flex;
+    align-items: center;
+}
+
+.comment_btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-style: none;
+    color: #6415ff;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.button_aligner {
+    font-size: 10px;
+    font-weight: 100;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #718096;
+}
+
+/*Section seven Logic*/

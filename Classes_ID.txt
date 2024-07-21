@@ -111,3 +111,20 @@ Section six --------------------------------------------------------------------
 .card_btn3 : done
 .card1_top_grad : done
 .card3_top_grad : done
+
+Section seven -----------------------------------------------------------------------------
+
+.width__limiter : done
+.Section_seven : done
+.Section_seven_image : done
+.comment_card_section_seven : done
+.section_seven_amazing : done
+.section_seven_amazing_para : done
+.pfp_name_section_seven : done
+.pfp_section_seven : done
+.Comment_name : done
+.Comment_company : done
+.section_seven_commentSection_divider : done
+.pfp_info : done
+.comment_btn : done
+.button_aligner : done
