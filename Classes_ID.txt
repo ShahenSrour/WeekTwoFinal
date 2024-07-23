@@ -128,3 +128,14 @@ Section seven ------------------------------------------------------------------
 .pfp_info : done
 .comment_btn : done
 .button_aligner : done
+
+Section eight -----------------------------------------------------------------------------
+
+.width__limiter : done
+.Section_eight : done
+.purple_rectangle : done
+.purple_rectangle_row : done
+.section_eight_para : done
+.button_cluster_section_8 : done
+.section_eight_btn1 : done
+.section_eight_btn2 : done

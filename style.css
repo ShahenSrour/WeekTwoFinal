@@ -743,3 +743,60 @@ p {
 }
 
 /*Section seven Logic*/
+/*Section eight*/
+.Section_eight {
+    padding: 96px 0;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+.purple_rectangle{
+    max-width: 1280px;
+    width : 100%;
+    background-color: #6415FF;
+    display: flex;
+    align-items: center;
+    height: 282px;
+    border-radius: 10px;
+}
+.purple_rectangle_row{
+    width: 1024px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:0px 128px;
+    padding: 0px 32px;
+}
+.section_eight_para{
+    color: #f7fafc;
+    width: 480px;
+    max-width: 50%;
+    font-size: 30px;
+    font-weight: 700;
+}
+.section_eight_btn1{
+    margin-right:32px ;
+    padding: 20px 40px;
+    background-color: #f56565;
+    color: #f7fafc;
+    font-size: 16px;
+    border-radius: 9999px;
+    border-style: none;
+    font-weight: 700;
+}
+.section_eight_btn2{
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0);
+    color: #f7fafc;
+    font-size: 16px;
+    border-radius: 9999px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #f7fafc;
+    font-weight: 700;
+}
+.button_cluster_section_8{
+    display: flex;
+    justify-content: flex-end;
+}
+/*Section eight Logic*/
