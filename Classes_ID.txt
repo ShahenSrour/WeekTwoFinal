@@ -139,3 +139,17 @@ Section eight ------------------------------------------------------------------
 .button_cluster_section_8 : done
 .section_eight_btn1 : done
 .section_eight_btn2 : done
+
+Footer -----------------------------------------------------------------------------
+
+.width__limiter : done
+.main_5_footer : 
+.footer_element : 
+.title_footer_elem : 
+.normaltxt_footer_elem : 
+.line : 
+.THE_end : 
+.logo_end : 
+.end_logo_name : 
+.copyright_txt : 
+.end_btn : 
