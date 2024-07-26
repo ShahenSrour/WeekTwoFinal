@@ -143,13 +143,16 @@ Section eight ------------------------------------------------------------------
 Footer -----------------------------------------------------------------------------
 
 .width__limiter : done
-.main_5_footer : 
+.main_5_footer : done
 .footer_element : 
-.title_footer_elem : 
-.normaltxt_footer_elem : 
-.line : 
-.THE_end : 
-.logo_end : 
-.end_logo_name : 
-.copyright_txt : 
+.title_footer_elem : done
+.normaltxt_footer_elem : done
+.line : done
+.THE_end : done
+.logoandname_end : done
+.logo_end : done
+.end_logo_name : done
+.copyright_txt : done
+.button_cluster_end : done
 .end_btn : 
+
