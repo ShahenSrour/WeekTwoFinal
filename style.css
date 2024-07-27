@@ -8,7 +8,7 @@
 }
 
 body {
-padding-top: 32px;
+    padding-top: 32px;
 }
 
 a {
@@ -59,12 +59,14 @@ p {
     font-size: 24px;
     font-weight: 900;
     color: #243e63;
+    transition: all 300ms ease-in-out;
 }
 
 .main__four__links,
 .login_signup {
     display: flex;
     align-items: center;
+    transition: all 300ms ease-in-out;
 }
 
 .link_normal_styles {
@@ -72,10 +74,13 @@ p {
     margin: 0 24px;
     color: #243e63;
     font-weight: 600;
+    text-decoration-color: transparent;
+    transition: all 300ms ease-in-out;
 }
 
 .Login {
     margin: 0 24px 0 48px;
+    transition: all 300ms ease-in-out;
 }
 
 .link_not_normal_styles {
@@ -85,12 +90,26 @@ p {
     background-color: #6415ff;
     border-radius: 999999999px;
     font-weight: 600;
+    transition: all 300ms ease-in-out;
 }
 
 /*Navigation Bar Logic*/
 
+.nav__left:hover #Company__Name {
+    color: #6415FF;
+}
 
+.link_normal_styles:hover {
+    color: #6415FF;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 3px;
+    text-decoration-color: rgba(100, 21, 255, 1);
+}
 
+.link_not_normal_styles:hover {
+    background-color: #5011CC;
+}
 
 
 
@@ -855,10 +874,12 @@ footer {
     justify-content: space-between;
     align-items: center;
 }
-.logoandname_end{
+
+.logoandname_end {
     display: flex;
     align-items: center;
 }
+
 .logo_end {
     width: 32px;
 }
@@ -875,11 +896,13 @@ footer {
     font-size: 16px;
     font-weight: 500;
 }
-.button_cluster_end{
+
+.button_cluster_end {
     display: flex;
     flex-direction: row;
 }
-.end_btn{
+
+.end_btn {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -889,6 +912,11 @@ footer {
     margin-right: 16px;
     border-style: none;
     border-radius: 50%;
-    transform: translate3d(-50%,-50%,-50%);
+    transform: translate3d(-50%, -50%, -50%);
 }
+
 /*Footer Logic*/
+
+@media (max-width : 1024px) {}
+
+@media (max-width : 640px) {}
