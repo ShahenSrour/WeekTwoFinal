@@ -175,6 +175,7 @@ p {
     border-style: solid;
     padding: 20px 192px 20px 32px;
     width: 80%;
+    transition: all 300ms ease-in-out;
 }
 
 .Email_input::placeholder {
@@ -195,12 +196,35 @@ p {
     color: white;
     font-weight: 700;
     background-color: #6415ff;
+    transition: all 300ms ease-in-out;
 }
 
 /*Section one Logic*/
 
+.Email_input:hover {
+    border-color: #A0AEC0;
+    transition: all 300ms ease-in-out;
+}
 
+.Email_input:active {
+    border-color: rgb(100, 21, 255);
+    transition: all 300ms ease-in-out;
+}
 
+.Get_started:hover {
+    content: "";
+    position: absolute;
+    bottom: 50%;
+    transform: translateY(50%);
+    right: 21.3%;
+    padding: 16px 28px;
+    border-radius: 9999px;
+    border-style: none;
+    color: white;
+    font-weight: 700;
+    background-color: #5011CC;
+    transition: all 300ms ease-in-out;
+}
 
 
 
@@ -298,10 +322,6 @@ p {
 }
 
 
-/*Section two Logic*/
-
-
-
 /*Section three*/
 
 .Section_three {
@@ -333,10 +353,13 @@ p {
     border-style: none;
     border-radius: 999px;
     font-weight: 700;
+    transition: all 300ms ease-in-out;
 }
 
 /*Section three Logic*/
-
+.Section_three_learnMore_button:hover {
+    background-color: #5011CC;
+}
 /*Section four*/
 
 .Section_four {
@@ -389,7 +412,6 @@ p {
     padding: 32px 0;
 }
 
-/*Section four Logic*/
 
 /*Section five*/
 .Section_five {
@@ -455,7 +477,6 @@ p {
     margin-top: 32px;
 }
 
-/*Section five Logic*/
 /*Section six*/
 .Section_six {
     padding: 96px 0;
