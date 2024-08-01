@@ -360,6 +360,7 @@ p {
 .Section_three_learnMore_button:hover {
     background-color: #5011CC;
 }
+
 /*Section four*/
 
 .Section_four {
@@ -639,6 +640,7 @@ p {
     border-style: solid;
     border-radius: 9999px;
     background: linear-gradient(115deg, rgb(56, 178, 172) 0%, rgb(129, 230, 217) 100%);
+    transition: all 300ms ease-in-out;
 }
 
 .card1_top_grad {
@@ -671,6 +673,7 @@ p {
     border-style: solid;
     border-radius: 9999px;
     background: linear-gradient(115deg, rgb(245, 101, 101) 0%, rgb(254, 178, 178) 100%);
+    transition: all 300ms ease-in-out;
 }
 
 .card_btn2 {
@@ -685,9 +688,22 @@ p {
     border-style: solid;
     border-radius: 9999px;
     background: #f7fafc;
+    transition: all 300ms ease-in-out;
 }
 
 /*Section six Logic*/
+.card_btn1:hover {
+    box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
+    transform: translate3d(1px,-1px,0);
+}
+.card_btn2:hover {
+    box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
+    transform: translate3d(1px,-1px,0);
+}
+.card_btn3:hover {
+    box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
+    transform: translate3d(1px,-1px,0);
+}
 
 /*Section seven*/
 .Section_seven {
