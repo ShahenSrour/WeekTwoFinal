@@ -787,6 +787,7 @@ p {
     align-items: center;
     justify-content: center;
     margin: 0 10px;
+    transition: all 300ms ease-in-out;
 }
 
 .button_aligner {
@@ -799,6 +800,9 @@ p {
 }
 
 /*Section seven Logic*/
+.comment_btn:hover{
+background-color: #E2E8F0;
+}
 /*Section eight*/
 .Section_eight {
     padding: 128px 0;
