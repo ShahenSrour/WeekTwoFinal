@@ -694,15 +694,17 @@ p {
 /*Section six Logic*/
 .card_btn1:hover {
     box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
-    transform: translate3d(1px,-1px,0);
+    transform: translate3d(1px, -1px, 0);
 }
+
 .card_btn2:hover {
     box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
-    transform: translate3d(1px,-1px,0);
+    transform: translate3d(1px, -1px, 0);
 }
+
 .card_btn3:hover {
     box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
-    transform: translate3d(1px,-1px,0);
+    transform: translate3d(1px, -1px, 0);
 }
 
 /*Section seven*/
@@ -800,9 +802,10 @@ p {
 }
 
 /*Section seven Logic*/
-.comment_btn:hover{
-background-color: #E2E8F0;
+.comment_btn:hover {
+    background-color: #E2E8F0;
 }
+
 /*Section eight*/
 .Section_eight {
     padding: 128px 0;
@@ -869,15 +872,17 @@ background-color: #E2E8F0;
 }
 
 /*Section eight Logic*/
-.section_eight_btn1:hover{
+.section_eight_btn1:hover {
     box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
     background-color: #E53E3E;
 }
-.section_eight_btn2:hover{
+
+.section_eight_btn2:hover {
     box-shadow: 0px 12px 30px 5px rgba(0, 0, 0, .1);
     background-color: #f7fafc;
     color: #6415FF;
 }
+
 /*Footer*/
 footer {
     display: flex;
@@ -964,10 +969,16 @@ footer {
     border-style: none;
     border-radius: 50%;
     transform: translate3d(-50%, -50%, -50%);
+    transition: all 300ms ease-in-out;
 }
 
 /*Footer Logic*/
 
+.end_btn:hover {
+    background-color: #CBD5E0;
+}
+
+/*responsivness*/
 @media (max-width : 1024px) {}
 
 @media (max-width : 640px) {}

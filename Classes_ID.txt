@@ -144,7 +144,7 @@ Footer -------------------------------------------------------------------------
 
 .width__limiter : done
 .main_5_footer : done
-.footer_element : 
+.footer_element : done
 .title_footer_elem : done
 .normaltxt_footer_elem : done
 .line : done
@@ -154,5 +154,5 @@ Footer -------------------------------------------------------------------------
 .end_logo_name : done
 .copyright_txt : done
 .button_cluster_end : done
-.end_btn : 
+.end_btn : done
 
